@@ -6,5 +6,5 @@ module "s3-bucket" {
   versioning = {
     enabled = true
   }
-  bucket_prefix = MattHueffner
+  bucket_prefix = "MattHueffnerz"
 }
